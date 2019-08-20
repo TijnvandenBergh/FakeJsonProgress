@@ -17,21 +17,21 @@
 			"completionDate": "31/05/2018",
 			"totalEC": 240,
 			"fases": [{
-					"faseCode": "IMIN-DV-PROP-15",
+					"faseCode": "TecnIMIN-DV-2015",
 					"judicium": true,
-					"cohort": "2015",
+					"cohort": "2019,
 					"type": "propedeuse",
-					"completionDate": "07/07/2016",
+					"completionDate": "07/07/2018,
 					"totalEC": 60,
 					"receivedEC": 60, 
-					"hasTranscript": true, 
+					"hasTranscript": false, 
 					"grades": [{
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
+						"courseCode": "C#
+						"courseName": "C# ssessments",
 						"Grade": "7.9"
 						},
 						   {
-						"courseCode": "I-C#--19",
+						"courseCode": "PHP
 						"courseName": "C# assessments",
 						"Grade": "8.5"
 						   },{
