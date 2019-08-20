@@ -13,7 +13,7 @@
 
 			"name": "INFORMATICA-BACHELOR",
 			"type": "Bachelor", 
-			"judicium": true,
+			"judicium": false,
 			"completionDate": "31/05/2018",
 			"totalEC": 240,
 			"fases": [{
@@ -78,34 +78,7 @@
 						  ]
 
 				},
-				{
-					"faseCode": "IMIN-DV-KERN-15",
-					"judicium": "geslaagd",
-					"cohort": "2016",
-					"completionDate": "07-07-2016",
-					"totalEC": 180,
-					"receivedEC": 180,
-					"hasTranscript": false,
-					"grades": [{
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
-						"Grade": "7.9"
-					},
-						   {
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
-						"Grade": "7.9"
-						   },{
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
-						"Grade": "7.9"
-						   },
-						   {
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
-						"Grade": "7.9"
-					}]
-				}
+		
 			],
 			"grades": [{
 						"courseCode": "X-C++-19",
