@@ -24,7 +24,7 @@
 					"completionDate": "07/07/2018,
 					"totalEC": 60,
 					"receivedEC": 60, 
-					"hasTranscript": false, 
+					"hasTranscript": true, 
 					"grades": [{
 						"courseCode": "C#
 						"courseName": "C# ssessments",
